@@ -14,7 +14,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Nate Shoffner")]
 [assembly: AssemblyProduct("RtfFile")]
-[assembly: AssemblyCopyright("Copyright © Nate Shoffner 2014")]
+[assembly: AssemblyCopyright("Copyright © Nate Shoffner 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
