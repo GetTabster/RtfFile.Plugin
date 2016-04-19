@@ -10,7 +10,7 @@ using Tabster.Data.Processing;
 
 namespace RtfFile
 {
-    internal class RtfFileExporter : ITablatureFileExporter
+    public class RtfFileExporter : ITablatureFileExporter
     {
         private RichTextBox _rtb;
 
